@@ -1,15 +1,19 @@
 
 // A task runner that calls the PXT compiler and
+// ตัวเรียกใช้งานที่เรียกคอมไพเลอร์ PXT และ
 {
     "version": "0.1.0",
 
     // The command is pxt. Assumes that PXT has been installed using npm install -g pxt
+    // คำสั่งคือ pxt สมมติว่า PXT ได้รับการติดตั้งโดยใช้ npm install -g pxt
     "command": "pxt",
 
     // The command is a shell script
+    // คำสั่งเป็นเชลล์สคริปต์
     "isShellCommand": true,
 
     // Show the output window always.
+    // แสดงหน้าต่างออกเสมอ
     "showOutput": "always",
 
     "tasks": [{
