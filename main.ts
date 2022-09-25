@@ -1,6 +1,6 @@
 ﻿/*
 Copyright (C): 2010-2019, Shenzhen Yahboom Tech
-modified from liusen
+modified from liusen and edit from kruyok.com
 load dependency
 "GHBit": "file:../pxt-ghbit"
 */
